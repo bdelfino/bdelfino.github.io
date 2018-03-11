@@ -1,0 +1,18 @@
+body {background: #FFF0F5
+}
+
+a {	font-family: 'Poiret One', cursive;
+	font-size: 4vh;
+}
+
+.col-md-5{float: left;
+		font-family: 'Poiret One', cursive;
+}
+
+.col-md-7{
+	float: right;
+	padding-right: 2vh;
+	width:20%;
+}
+
+
