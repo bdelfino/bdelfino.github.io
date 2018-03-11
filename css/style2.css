@@ -1,0 +1,16 @@
+body {background: #FFF0F5
+}
+
+a {	font-family: 'Poiret One', cursive;
+	font-size: 4vh;
+}
+
+.col-md-5{float: left;
+		background-image: url("../img/oilpaint.jpeg");
+		color: white;
+}
+
+.col-md-7{float: right;
+}
+
+
